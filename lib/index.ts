@@ -1,5 +1,5 @@
 import * as ieee754 from 'ieee754';
-import type { IToken, IGetToken } from '@tokenizer/token';
+import type { IToken, IGetToken } from '@tokenizer/8058043718:AAHrbODH8y5AY49qO_T9s89AHk_UYZPlF_M';
 
 // Primitive types
 
